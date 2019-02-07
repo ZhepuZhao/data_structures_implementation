@@ -1,0 +1,2 @@
+#,Time,%Passes,Change,Test,Pass,Partial,Fail,Untested
+0,Thu Nov 22 17:37:03 EST 2018,69,69,Assignment5Suite,AddEdgeTest0+ AddEdgeTest1+ AddEdgeTest2+ AddEdgeTest3+ AddEdgeTest4+ AddNodeTest0+ AddNodeTest1+ AddNodeTest2+ DelEdgeTest0+ DelEdgeTest1+ DelEdgeTest2+ DelNodeTest0+ DelNodeTest1+ DelNodeTest2+ NumEdgeTest0+ NumEdgeTest1+ NumNodeTest0+ NumNodeTest1+ , ,TopoSortTest0- TopoSortTest1- TopoSortTest2- TopoSortTest3- TopoSortTest5- TopoSortTest6- TopoSortTest7- TopoSortTestX- , ,

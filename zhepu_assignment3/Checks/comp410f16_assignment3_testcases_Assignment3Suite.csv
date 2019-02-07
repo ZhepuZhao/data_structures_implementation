@@ -1,0 +1,2 @@
+#,Time,%Passes,Change,Test,Pass,Partial,Fail,Untested
+0,Thu Oct 18 15:34:38 EDT 2018,100,100,Assignment3Suite,BuildTest1+ BuildTest2+ BuildTest3+ DelMinTest1+ DelMinTest2+ DelMinTest3+ DelMinTest4+ EverythingTest+ GetMinTest1+ GetMinTest2+ GetMinTest3+ InsertTest1+ InsertTest2+ InsertTest3+ SizeTest1+ SizeTest2+ SizeTest3+ SizeTest4+ , , , ,
