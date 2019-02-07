@@ -6,4 +6,6 @@ Concrete, the following data structures were implemented:
 - Assignment1: `LinkedList`
 - Assignment2: `Binary Search Tree`
 - Assignment3: `Minimum Binary Heap`
-- Assignment5: `Directed Graph ` and Computer shortest path distance by `Dijkstra Shortest Path Algorithm`
+- Assignment5: 
+  - `Directed Graph ` implemented by Adjacency List rather than Adjacency Matrix
+  - Compute shortest path distance by `Dijkstra Shortest Path Algorithm`
