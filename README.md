@@ -7,5 +7,5 @@ Concrete, the following data structures were implemented:
 - Assignment2: `Binary Search Tree`
 - Assignment3: `Minimum Binary Heap`
 - Assignment5: 
-  - `Directed Graph ` implemented by Adjacency List rather than Adjacency Matrix
+  - `Directed Graph` implemented by Adjacency List rather than Adjacency Matrix
   - Compute shortest path distance by `Dijkstra Shortest Path Algorithm`
